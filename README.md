@@ -1,13 +1,17 @@
-Hii BlackVincy (or better say Vincenzo) here
+Hii BlackVincy (or better say Vincenzo) here and:
 
-## Some Informations about me<3
+## Some Informations about me!
 
 -Teenager
 -Programmer
 -Interested in Graphics design for web sites
+-I'm training for video editing
+-Short videos edited by me 
+-Trying to learn better AI for a properly use 
+-C#, HTML and start learining JavaScript 
 
-## Other information about me:3
+## Other information about me<3
 
--Small short video editor
--I like anime/manga
+-I like anime and manga
 -I like videogames
+-I like football and I played it for 7 years
