@@ -6,7 +6,7 @@ Hii BlackVincy (or better say Vincenzo) here and:
 -Programmer
 -Interested in Graphics design for web sites
 -I'm training for video editing
--Short videos edited by me 
+-Short videos edited by me (link to see it in bio)
 -Trying to learn better AI for a properly use 
 -C#, HTML and start learining JavaScript 
 
