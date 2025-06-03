@@ -1,20 +1,20 @@
 Hii BlackVincy (or better say Vincenzo) here, I'm a student from ITI E. Majorana Grugliasco and:
 
-## Some Informations about me!
+## ✌️Some Informations about me:
 - Teenager
 - Programmer
 
-## Skills
+## 💻Skills:
 - C#
 - HTML
 - CSS
 - Learning JavaScript
 
-## Other things I like to do that can be a profession
+## 📱Other things I like to do that can be a profession:
 - Interested in Graphics design for web sites
 - I'm training for video editing (short videos edited by me) 
 
-## Some extras
+## 🎶Some extras:
 - I like anime and manga
 - I like videogames
 - I like football and played for 7 years
