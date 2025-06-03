@@ -1,4 +1,4 @@
-Hii BlackVincy (or better say Vincenzo) here, I'm a student from ITI E. Majorana and:
+Hii BlackVincy (or better say Vincenzo) here, I'm a student from ITI E. Majorana Grugliasco and:
 
 ## Some Informations about me!
 -Teenager
@@ -11,8 +11,7 @@ Hii BlackVincy (or better say Vincenzo) here, I'm a student from ITI E. Majorana
 
 ## Other things I like to do that can be a profession
 -Interested in Graphics design for web sites
--Short videos edited by me
--I'm training for video editing
+-I'm training for video editing (short videos edited by me) 
 
 ## Some extras
 -I like anime and manga
