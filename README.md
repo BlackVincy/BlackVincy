@@ -1,17 +1,21 @@
-Hii BlackVincy (or better say Vincenzo) here and:
+Hii BlackVincy (or better say Vincenzo) here, I'm a student from ITI E. Majorana and:
 
 ## Some Informations about me!
-
 -Teenager
 -Programmer
+
+## Skills
+-C#
+-HTML
+-Learning JavaScript
+
+## Other things I like to do that can be a profession
 -Interested in Graphics design for web sites
+-Short videos edited by me
 -I'm training for video editing
--Short videos edited by me (link to see it in bio)
--Trying to learn better AI for a properly use 
--C#, HTML and start learining JavaScript 
 
-## Other information about me<3
-
+## Some extras
 -I like anime and manga
 -I like videogames
--I like football and I played it for 7 years
+-I like football and played for 7 years
+-Editing short videos (link in bio)
