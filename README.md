@@ -1,4 +1,4 @@
-# Vincenzo | Student at ITIS E. MAJORANA | Amateur Software Developer 
+# Vincenzo Dicuonzo | Student at ITIS E. MAJORANA | Amateur Software Developer 
 
 ## ✌️Some Informations about me:
 - Teenager
