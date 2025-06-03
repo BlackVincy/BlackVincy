@@ -1,4 +1,4 @@
-Hii BlackVincy (or better say Vincenzo) here, I'm a student from ITI E. Majorana Grugliasco and:
+# Vincenzo | Student at ITIS E. MAJORANA | Amateur Software Developer 
 
 ## ✌️Some Informations about me:
 - Teenager
