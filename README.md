@@ -7,6 +7,7 @@ Hii BlackVincy (or better say Vincenzo) here, I'm a student from ITI E. Majorana
 ## Skills
 -C#
 -HTML
+-CSS
 -Learning JavaScript
 
 ## Other things I like to do that can be a profession
